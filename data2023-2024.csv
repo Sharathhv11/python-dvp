@@ -1,0 +1,53 @@
+SI. No,Company Name/CTC IN LPA/Date of drive,EC,CS,IS,EI,EE,MECH,AUTO,IP,CIVIL,Total
+1,Technologics Global/Training 13th Jun22,1,0,0,1,1,1,0,0,0,3
+2,Mercedes Benz/10.0/5th July 22,1,9,2,3,5,2,0,0,1,14
+3,Global Quest/Training/23rd June 22,2,7,0,0,3,5,2,0,0,20
+4,Sasken /5.0/4th July 22,6,8,0,1,0,0,0,0,0,15
+5,Saankhya Labs Pvt Ltd/6.5/11th July22,1,3,0,1,1,0,0,0,0,6
+6,Torry Harris/5/11th Aug22,1,3,0,1,1,0,0,0,0,6
+7,Happiestminds/4.5/17Aug22,9,19,0,0,0,0,0,0,0,28
+8,Samsung/17.0/01Sept22,2,0,0,0,0,0,0,0,0,2
+9,Botloka Pvt Ltd./3.5/22sept22,0,0,0,0,1,1,0,0,0,2
+10,TCS/3/7 Oct 22,4,14,3,1,6,0,0,0,1,29
+11,Least Squared/11.0/11Oct22,0,1,0,0,0,0,0,0,0,1
+12,TATA Elxsi/3.6/19Oct22,8,9,3,5,4,0,0,0,0,29
+13,Robert Bosch/4.5/19Oct22,0,1,0,0,3,0,0,0,0,4
+14,Hashedin deloitte /8.5/14 Oct 2022,0,1,0,0,0,0,0,0,0,1
+15,Tech Mahindra /4/14 Oct 2022,0,1,1,0,0,0,0,0,0,2
+16,Planvisage/3.5/20 NOV 2022,0,0,0,0,0,6,0,0,0,6
+17,Actalent /4.5/30 Nov 2022,4,0,0,2,0,0,0,0,0,6
+18,Schneider Electric/4.75/29 Nov 2022,0,0,0,0,1,0,0,0,0,1
+19,Spurtreetech/4/12Dec2022,4,7,2,0,0,0,0,0,0,13
+20,Dish network /8.47/10 Dec 2022,0,1,0,0,0,0,0,0,0,1
+21,Exicom/6/14 Dec 2022,3,0,0,1,0,0,0,0,0,4
+22,Zscaler/9/27 Dec 2022,0,1,0,0,0,0,0,0,0,1
+23,Evertz/5.5/28 Dec 2022,0,0,1,0,0,0,0,0,0,1
+24,Relanto Global Private,3,0,0,0,0,0,0,0,0,3
+25,Limited/6.5/24Jan2023,0,1,8,2,0,0,0,0,0,11
+26,Toshiba/7.5/25 Jan2023,0,2,2,3,0,0,0,0,0,5
+27,Yokogawa/5.6/30 Jan 2023,0,2,3,0,0,0,0,0,0,5
+28,Aarbee Structures Pvt Ltd/2.5/03 Feb 2023,0,0,0,0,0,0,0,0,9,9
+29,Inteva Products/5.0/08Feb 2023,1,3,0,1,3,0,0,0,0,8
+30,SmartSOCS/4.5/15 Feb 2023,0,0,2,0,0,0,0,0,0,2
+31,Mcdberl /2.5/15 Feb 2023,0,0,2,0,0,0,0,0,0,2
+32,Quest Global /3.25/09 March 2023,0,2,0,3,0,3,0,0,0,8
+33,QSpiders Training/30 Dec 2023,1,1,2,1,3,0,1,1,0,10
+34,Kennametal /4.0/ 24 March 2023,0,0,0,0,1,0,0,0,0,1
+35,Sonata Software/4.0/05 April 2023,0,2,5,0,1,0,0,0,0,8
+36,ETHNUS Training/13 April 2023,9,3,1,4,11,0,2,1,0,31
+37,Fidelity/6.49/ 17 April 2023,0,2,0,0,0,0,0,0,0,2
+38,X-workz/20 April 2023 Training,6,6,5,4,12,3,0,1,0,38
+39,SACHA Engineering Pvt.Ltd /3.3/ 19 April 2023,0,0,0,0,2,0,0,0,0,2
+40,KGIS/4.8/05 May 2023,2,3,4,2,2,0,0,1,1,15
+41,Astronics/3 / 18 May 2023,0,0,0,0,0,0,0,0,0,0
+42,Accord /3.6/18 May 2023,1,0,0,0,0,0,0,0,0,1
+43,TDPS/3.5/ 19 May 2023,0,0,2,2,2,0,0,0,0,4
+44,Descon /3.2/ 22 May 2023,0,0,0,0,4,0,0,0,0,4
+45,Astronics /3.5 /28 May 2023,1,0,0,1,0,0,0,0,0,2
+46,Devtools / 3.5 /02 June 2023,2,2,1,0,0,0,0,0,0,5
+47,Exide Industries Limited/5.6/03 June 2023,0,0,0,0,1,0,0,0,0,1
+48,Indo-MIM / 3.3 /08 June 2023,0,0,0,0,3,0,0,0,0,3
+49,Rinex Technologies /4.2 /09 June 2023,0,2,2,2,0,0,1,0,0,7
+50,7 EDGE/3.6 / 15 June 2023,0,0,0,0,0,0,0,0,0,0
+51,ACE Designers /3.2 / 15 June 2023,0,0,0,0,2,0,2,0,0,4
+52,Kalpataru Projects/4.5 /28 June 2023,0,0,0,1,1,0,2,0,0,4
